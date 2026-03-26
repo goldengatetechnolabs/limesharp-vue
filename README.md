@@ -22,7 +22,6 @@ It uses modern tools and best practices to ensure performance, scalability, and 
 limesharp-vue/
 │
 ├── src/                # Main application source code
-├── public/             # Static assets
 ├── index.html          # Entry HTML file
 ├── package.json        # Project dependencies
 ├── vite.config.js      # Vite configuration
